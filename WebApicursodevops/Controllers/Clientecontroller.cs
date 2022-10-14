@@ -36,6 +36,16 @@ namespace WebApicursodevops.Controllers
 
                 }
 
+                  new Cliente
+
+                {
+                id = "3",
+                nombre = "Miguel",
+                edad = "miguel@gmail.com",
+                correo = "MIguel Diaz"
+
+                }
+
             };
 
             return clientes;

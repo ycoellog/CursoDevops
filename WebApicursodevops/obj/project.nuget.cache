@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "jNqDRAl/cBnS3Eu9XU2s7DPLkJqwWb8M7p6lqEUpXANErPKEsV32acyfytMwCTDfBVA9ZlQhYgbDqL924GB3Vg==",
+  "dgSpecHash": "fbaIGEISDXKwZ/d8Y67/xDJO2vJ/zo7xTqu23VafRrFQXW5bvLr+LavK/CRBJBRMCl4xnazeC3u2SUut8GEhiA==",
   "success": true,
-  "projectFilePath": "C:\\CursoDevops\\WebApicursodevops\\WebApicursodevops\\WebApicursodevops.csproj",
+  "projectFilePath": "C:\\wordspaceyis\\WebApicursodevops\\WebApicursodevops\\WebApicursodevops.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\yisleybis.garcia\\.nuget\\packages\\microsoft.extensions.apidescription.server\\3.0.0\\microsoft.extensions.apidescription.server.3.0.0.nupkg.sha512",
     "C:\\Users\\yisleybis.garcia\\.nuget\\packages\\microsoft.openapi\\1.2.3\\microsoft.openapi.1.2.3.nupkg.sha512",

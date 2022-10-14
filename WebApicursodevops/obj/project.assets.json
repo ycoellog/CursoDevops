@@ -229,11 +229,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\CursoDevops\\WebApicursodevops\\WebApicursodevops\\WebApicursodevops.csproj",
+      "projectUniqueName": "C:\\wordspaceyis\\WebApicursodevops\\WebApicursodevops\\WebApicursodevops.csproj",
       "projectName": "WebApicursodevops",
-      "projectPath": "C:\\CursoDevops\\WebApicursodevops\\WebApicursodevops\\WebApicursodevops.csproj",
+      "projectPath": "C:\\wordspaceyis\\WebApicursodevops\\WebApicursodevops\\WebApicursodevops.csproj",
       "packagesPath": "C:\\Users\\yisleybis.garcia\\.nuget\\packages\\",
-      "outputPath": "C:\\CursoDevops\\WebApicursodevops\\WebApicursodevops\\obj\\",
+      "outputPath": "C:\\wordspaceyis\\WebApicursodevops\\WebApicursodevops\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\yisleybis.garcia\\AppData\\Roaming\\NuGet\\NuGet.Config",
